@@ -4,7 +4,7 @@
 * Author :
 * Version :
 * 
-* Description :
+* Description : Interface de connexion à la base de données
 * 
 */
 
