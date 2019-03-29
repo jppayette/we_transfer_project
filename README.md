@@ -33,5 +33,5 @@ REL : 1 expediteur possède n fichiers
 
 ** Les fichiers sur ce "template" sont des fichiers suggérés ( base Laravel ) vous pouvez en créer d'autres à votre guise, merci de respecter la syntaxe ** 
 
-__ Proposition de Dorothée : Envoyer le mail à plusieurs personnes en même temps : Faites attention, ça modifie votre modelisation SQL __
+__ Proposition d'une étudiante : Envoyer le mail à plusieurs personnes en même temps : Faites attention, ça modifie votre modelisation SQL __
 
