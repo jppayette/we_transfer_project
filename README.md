@@ -22,4 +22,5 @@ Création d'un "clone" de wetransfert  ou de Dropbox
 * Permettre à un utilisateur de se connecter et de voir ses "partages" en cours
 * Utilisation d'Ajax pour l'upload des fichiers
 
-* Les fichiers sur ce "template" sont des fichiers suggérés ( base Laravel ) vous pouvez en créer d'autres à votre guise, merci de respecter la syntaxe * 
+** Les fichiers sur ce "template" sont des fichiers suggérés ( base Laravel ) vous pouvez en créer d'autres à votre guise, merci de respecter la syntaxe ** 
+    
