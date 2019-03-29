@@ -9,6 +9,8 @@
 * 
 */
 
+namespace LoginController;
+
 /**
  * Display a listing of the resource.
  *

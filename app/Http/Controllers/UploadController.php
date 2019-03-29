@@ -9,6 +9,8 @@
 * 
 */
 
+namespace UploadController;
+
 /**
  * Display a listing of the resource.
  *

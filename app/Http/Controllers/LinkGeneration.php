@@ -8,6 +8,8 @@
 * 
 */
 
+namespace LinkGeneration;
+
 /**
  * Display a listing of the resource.
  *
