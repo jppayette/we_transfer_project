@@ -21,17 +21,15 @@ Création d'un "clone" de wetransfert  ou de Dropbox
 # Optionnels
 * Permettre à un utilisateur de se connecter et de voir ses "partages" en cours
 * Utilisation d'Ajax pour l'upload des fichiers
+* Envoi à plusieurs destinataires
 
 # Schema SQL
 
 Table expediteur (id, message, mail_dest, mail_exp)
-Table fichiers (id, url_fichier, path_fichier exp_id)
+Table fichiers (id, url_fichier, nom_fichier, exp_id)
 
 REL : 1 expediteur possède n fichiers
 
 # Notes 
 
 ** Les fichiers sur ce "template" sont des fichiers suggérés ( base Laravel ) vous pouvez en créer d'autres à votre guise, merci de respecter la syntaxe ** 
-
-__ Proposition d'une étudiante : Envoyer le mail à plusieurs personnes en même temps : Faites attention, ça modifie votre modelisation SQL __
-
