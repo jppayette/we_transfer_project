@@ -1,4 +1,4 @@
-# Structure de base
+# We Transfer Project
 
 Il s'agit de la structure de base pour votre projet "We Transfert"
 
